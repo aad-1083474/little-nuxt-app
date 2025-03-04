@@ -1,7 +1,7 @@
 <template>
   <div>
     {{ userInput }}
-    <about></about>
+    <img src="/images/logo.png" alt="curriculum">
     <NuxtRouteAnnouncer />
     <NuxtWelcome />
   </div>
