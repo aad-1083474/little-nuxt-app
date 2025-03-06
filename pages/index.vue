@@ -1,6 +1,6 @@
 <template>
     <div>
-        <title>Hoofdpagina</title>
+            <title>Hoofdpagina</title>
       <h1>User List</h1>
       <UserCard v-for="user in users" :key="user.id" :user="user" />
     </div>
