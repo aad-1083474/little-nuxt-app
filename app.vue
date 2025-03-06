@@ -1,7 +1,7 @@
 <template>
   <div>
     {{ userInput }}
-    <img src="/images/logo.png" alt="curriculum">
+    <!-- <img src="/images/logo.png" alt="curriculum"> -->
     <NuxtRouteAnnouncer />
     <NuxtWelcome />
   </div>
@@ -9,6 +9,5 @@
 
 <script setup> 
 import { ref } from 'vue'
-import about from '../pages/about.vue'
   const userInput = ref('This is an XSS attack')
 </script>
