@@ -3,6 +3,7 @@
     {{ userInput }}
     <NuxtPage/>
     <!-- <img src="/images/logo.png" alt="curriculum"> -->
+    <NuxtRouteAnnouncer />
   </div>
 </template>
 

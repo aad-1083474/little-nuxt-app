@@ -7,7 +7,7 @@
   
   <script setup>
     const users = ref([
-        { id: 1, name: 'John Doe', email: 'john@example.com', avatar: 'https://placekitten.com/100/100' },
-        { id: 2, name: 'Jane Smith', email: 'jane@example.com', avatar: 'https://placekitten.com/101/101' },
+        { id: 1, name: 'John Doe', email: 'john@example.com'},
+        { id: 2, name: 'Jane Smith', email: 'jane@example.com'},
     ]);
   </script>
