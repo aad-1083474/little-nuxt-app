@@ -1,6 +1,14 @@
-# Nuxt Minimal Starter
+# Nuxt 3 & Pinia project
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) && [Pinia documentation](https://pinia.vuejs.org/core-concepts/)to learn more
+
+For this project we're using the following technologies: 
+- Pinia 
+- Nuxt 
+- NuxtIcon  
+- Tailwind CSS  
+- Daisy UI
+ 
 
 ## Setup
 
