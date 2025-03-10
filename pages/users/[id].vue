@@ -1,5 +1,6 @@
 <template>
   <div>
+    <title>User profile: {{ $route.params.id }}</title>
     <h1>User Profile</h1>
     <p>User ID: {{ $route.params.id }}</p>
   </div>
