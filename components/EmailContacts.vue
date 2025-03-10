@@ -1,7 +1,5 @@
 <script setup>
-// Importing the useEmailStore function from the EmailStore module
 import { useEmailStore } from "~/store/EmailStore";
-// Importing the faker library for generating fake data
 import { faker } from '@faker-js/faker';
 
 // Using the useEmailStore to create a reactive store for email-related data
